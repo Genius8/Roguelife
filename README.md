@@ -1,5 +1,7 @@
 # 2D Roguelike Game (Unity)
 
+![Alt text](rogue.png)
+
 Throughout development, this project focuses on:
 - Organizing and prioritizing tasks
 - Understanding complex programming concepts
